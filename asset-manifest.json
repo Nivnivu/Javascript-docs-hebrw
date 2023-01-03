@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Javascript-docs-hebrw/static/css/main.3dcbaba0.css",
+    "main.js": "/Javascript-docs-hebrw/static/js/main.8c1ab7fb.js",
+    "index.html": "/Javascript-docs-hebrw/index.html",
+    "main.3dcbaba0.css.map": "/Javascript-docs-hebrw/static/css/main.3dcbaba0.css.map",
+    "main.8c1ab7fb.js.map": "/Javascript-docs-hebrw/static/js/main.8c1ab7fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dcbaba0.css",
+    "static/js/main.8c1ab7fb.js"
+  ]
+}
